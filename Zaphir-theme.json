@@ -1,8 +1,7 @@
-
 {
   "name": "Dark theme Zaphir",
   "description": "Pure black theme with grey accents",
-  "version": "1.3",
+  "version": "1.4",
   "authors": [
     {
       "name": "Zaphir",
@@ -17,7 +16,7 @@
     "BACKGROUND_FLOATING": ["#000000"],
     "BACKGROUND_MENTIONED": ["#20202028"],
     "FORUM_POST_TAG_BACKGROUND": ["#222222"],
-    "BACKGROUND_MENTIONED_HOVER": ["#303030"],
+    "BACKGROUND_MENTIONED_HOVER": ["#222222"],
     "SCROLLBAR_THIN_THUMB": ["#777777CC"],
     "SCROLLBAR_THIN_TRACK": ["#77777700"],
     "SCROLLBAR_AUTO_THUMB": ["transparent"],
@@ -25,7 +24,7 @@
     "CHANNELTEXTAREA_BACKGROUND": ["#000000"],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#000000"],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": ["#000000"],
-    "CHANNELS_DEFAULT": ["#9c9c9c"],
+    "CHANNELS_DEFAULT": ["#9C9C9C"],
     "BACKGROUND_MESSAGE_HOVER": ["#000000"],
     "BACKGROUND_NESTED_FLOATING": ["#000000"],
     "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
