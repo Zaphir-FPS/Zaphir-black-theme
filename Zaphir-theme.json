@@ -122,9 +122,12 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "color": "#000000",
-    "blur": 0,
-    "alpha": 1
+  "url": "https://github.com/Zaphir-FPS/Zaphir-black-theme/main/f99bac6cac0ad4fde6da3f1c68210b77.jpg",
+  "blur": 0.5,
+  "alpha": 0.25,
+  "size": "cover",
+  "position": "center"
+},
   },
   "plus": {
     "version": "0",
