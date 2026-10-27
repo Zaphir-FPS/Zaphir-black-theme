@@ -124,7 +124,7 @@
   "background": {
   "url": "https://raw.githubusercontent.com/Zaphir-FPS/Zaphir-black-theme/main/f99bac6cac0ad4fde6da3f1c68210b77.jpg",
   "blur": 0,
-  "alpha": 0.50,
+  "alpha": 0.75,
   "size": "cover",
   "position": "center"
   },
